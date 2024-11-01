@@ -17,11 +17,11 @@ With the articles pulled, I created both count and tfidf vectorizers.  Using the
 
 The models I ran and their respective results are shown below.  Overall, using the TFIDF values proved to show more predictive power than the count vectorizer
 
-
+![Model Scores Matrix](/models_matrix.png)
 
 
 <h2> Future Improvements </h2>
 
-<ul>Try finding an API that allows pulling of article bodies from further back </ul>
-<ul>Gather more companies to test and run through the model as 277 is a very small number</ul>
-<ul>Spend more time on the article analysis as many articles mentioned more than one company and could skew the sentiment</ul>
+<ul>- Try finding an API that allows pulling of article bodies from further back </ul>
+<ul>- Gather more companies to test and run through the model as 277 is a very small number</ul>
+<ul>- Spend more time on the article analysis as many articles mentioned more than one company and could skew the sentiment</ul>
