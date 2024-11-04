@@ -15,7 +15,7 @@ With the articles pulled, I created both count and tfidf vectorizers.  Using the
 
 <h2> Models </h2>
 
-The models I ran and their respective results are shown below.  Overall, using the TFIDF values proved to show more predictive power than the count vectorizer
+Because I had both vectorizers created for TFIDF and Count, I essentially created two datasets to test on my modles.  Below are the models tested with associated score, and their respective features/hyperparameters.  Overall, using the TFIDF values proved to show more predictive power than the count vectorizer.
 
 ![Model Scores Matrix](/models_matrix.png)
 
